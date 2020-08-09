@@ -1,7 +1,8 @@
 # Whipemerald language
 
 この言語は🔥👼🏠🍄🐸のみで書かれる難解言語(Esolang)です。
---brainf*ckをほとんど丸パクリしたとは言えない...--
+
+~~brainf*ckをほとんど丸パクリしたとは言えない...~~
 
 examplesにWhipemeraldファイルを何個か置いてあるのでぜひ実行してみてください。
 
