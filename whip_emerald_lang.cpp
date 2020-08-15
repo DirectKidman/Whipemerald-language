@@ -103,6 +103,9 @@ void execute(const string &code){
                 s += char(buff[now_pointer+i]);
             }
             cout << s;
+        }else{
+            cerr << "Unknown command found : " << op << endl;
+            exit(1);
         }
         
         //unicode characters own 4bytes and operators are 2 unicode characters, so the step of the index is 8.
